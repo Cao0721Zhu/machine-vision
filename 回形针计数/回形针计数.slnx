@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="回形针计数.vcxproj" Id="a8f981a8-86fd-4bec-8cb6-f9f335c76077" />
+</Solution>

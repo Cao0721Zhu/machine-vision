@@ -1,0 +1,22 @@
+# Visual Studio 编译产物与中间文件
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.tlog
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略规则（本仓库自定义）
+.workbuddy/

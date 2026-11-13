@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="硬币计数.vcxproj" Id="316c123c-23f2-41f4-8f83-2d9f83ef2e9e" />
+</Solution>
